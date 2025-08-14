@@ -2,6 +2,9 @@ nginx
 docker.io/mysql/mysql-server:8.0.32
 docker.io/apache/kafka:3.8.0
 docker.io/redislabs/redis:7.4.6-66
+docker.io/clickhouse/clickhouse-server:25.5.6
+docker.io/polardb/polardb_pg_local_instance:15.13.4.0
+docker.io/onlyoffice/elasticsearch:7.16.3
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
