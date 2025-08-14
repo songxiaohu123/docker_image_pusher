@@ -5,6 +5,7 @@ docker.io/redislabs/redis:7.4.6-66
 docker.io/clickhouse/clickhouse-server:25.5.6
 docker.io/polardb/polardb_pg_local_instance:15.13.4.0
 docker.io/onlyoffice/elasticsearch:7.16.3
+docker.io/sebp/elk:7.14.0
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
