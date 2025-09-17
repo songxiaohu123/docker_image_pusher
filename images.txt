@@ -1,4 +1,4 @@
-docker.io/polardb/polardb_pg_local_instance:15.13.4.0
+docker.io/apache/rocketmq:5.2.0
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
